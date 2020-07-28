@@ -21,10 +21,10 @@
     "url": "https://github.com/appacademy-starters/routing-roundup-starter/issues"
   },
   "homepage": "https://github.com/appacademy-starters/routing-roundup-starter#readme",
-
   "dependencies": {
     "express": "^4.17.1",
     "mocha": "^7.1.1",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "pug": "^2.0.4"
   }
 }
